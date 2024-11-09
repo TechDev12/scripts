@@ -1,4 +1,4 @@
-# scan-and-block-usage.bat
+# scan-and-block.bat
 
 Scans a directory for Executable files and creates a firewall rule to blocke them
 
